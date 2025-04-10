@@ -1,36 +1,18 @@
-{
-    "content": [
-        {
-            "partido": "LDU Quito vs Deportivo Táchira",
-            "hora": "9:00pm",
-            "torneo": "Copa Libertadores",
-            "enlaces": {
-                "ESPN 6": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG42",
-                "Disney+": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
-                "ESPN 3 BR": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4zYnI="
-            },
-            "id": "1"
-        },
-        {
-            "partido": "Xelajú vs Mixco",
-            "hora": "9:00pm",
-            "torneo": "Primera Division",
-            "enlaces": {
-                "FOX Deportes": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
-            },
-            "id": "2"
-        },
-        {
-            "partido": "Pumas UNAM vs Vancouver Whitecaps",
-            "hora": "9:30pm",
-            "torneo": "Liga Campeones CONCACAF",
-            "enlaces": {
-                "TUDN USA": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh",
-                "Tubi TV": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1Yml0djE=",
-                "Disney+": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
-                "FOX Sports USA": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF8xX3VzYQ=="
-            },
-            "id": "3"
-        }
-    ]
-}
+[
+    {
+        "partido": "Pumas UNAM vs Vancouver Whitecaps",
+        "hora": "9:30pm",
+        "torneo": "Liga Campeones CONCACAF",
+        "enlaces": [
+            {
+                "calidad": "720p",
+                "transmisión": {
+                    "TUDN US": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh",
+                    "Tubi TV": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1Yml0djE=",
+                    "Disney+": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
+                    "FOX Sports US": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF8xX3VzYQ=="
+                }
+            }
+        ]
+    }
+]
